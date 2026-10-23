@@ -1,0 +1,16 @@
+
+# Keys and credentials
+*.pem
+*.ppk
+credentials
+.env
+.aws/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.zip
+
+# Node.js
+node_modules/
